@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyecto curso\\PYF\\",
+  "WorkspaceRootPath": "C:\\Users\\susan\\source\\repos\\PYF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|D:\\Proyecto curso\\PYF\\formularios\\frmventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|solutionrelative:formularios\\frmventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmVentanaPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formularios\\frmVentanaPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|d:\\proyecto curso\\pyf\\formularios\\frmingenieria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|solutionrelative:formularios\\frmingenieria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\susan\\source\\repos\\PYF\\formularios\\frmingenieria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formularios\\frmingenieria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|D:\\Proyecto curso\\PYF\\formularios\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|solutionrelative:formularios\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\susan\\source\\repos\\PYF\\formularios\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formularios\\frmconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|D:\\Proyecto curso\\PYF\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|solutionrelative:formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\susan\\source\\repos\\PYF\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|D:\\Proyecto curso\\PYF\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF447CF-AEBA-43A6-89BC-B4F56CDFDD98}|PYF.csproj|solutionrelative:formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\susan\\source\\repos\\PYF\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,44 +36,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmIngenieria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Proyecto curso\\PYF\\Formularios\\frmIngenieria.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmIngenieria.cs",
               "RelativeDocumentMoniker": "Formularios\\frmIngenieria.cs",
               "ToolTip": "D:\\Proyecto curso\\PYF\\Formularios\\frmIngenieria.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmIngenieria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T22:49:58.031Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-10T22:49:58.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmConfiguracion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Proyecto curso\\PYF\\Formularios\\frmConfiguracion.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmConfiguracion.cs",
               "RelativeDocumentMoniker": "Formularios\\frmConfiguracion.cs",
               "ToolTip": "D:\\Proyecto curso\\PYF\\Formularios\\frmConfiguracion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmConfiguracion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T22:33:53.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "frmInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Proyecto curso\\PYF\\Formularios\\frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmInicio.cs",
               "RelativeDocumentMoniker": "Formularios\\frmInicio.cs",
               "ToolTip": "D:\\Proyecto curso\\PYF\\Formularios\\frmInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmInicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T22:10:28.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmInicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Proyecto curso\\PYF\\Formularios\\frmInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmInicioSesion.cs",
               "RelativeDocumentMoniker": "Formularios\\frmInicioSesion.cs",
               "ToolTip": "D:\\Proyecto curso\\PYF\\Formularios\\frmInicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmInicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T22:00:04.21Z"
             },
@@ -81,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmVentanaPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Proyecto curso\\PYF\\Formularios\\frmVentanaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmVentanaPrincipal.cs",
               "RelativeDocumentMoniker": "Formularios\\frmVentanaPrincipal.cs",
-              "ToolTip": "D:\\Proyecto curso\\PYF\\Formularios\\frmVentanaPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\susan\\source\\repos\\PYF\\Formularios\\frmVentanaPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\frmVentanaPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T21:57:46.894Z",

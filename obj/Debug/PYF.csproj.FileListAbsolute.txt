@@ -1,0 +1,25 @@
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\bin\Debug\PYF.exe.config
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\bin\Debug\PYF.exe
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\bin\Debug\PYF.pdb
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.csproj.AssemblyReference.cache
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.frmInicio.resources
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.Properties.Resources.resources
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.csproj.GenerateResource.cache
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.exe
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.pdb
+C:\Users\susan\Desktop\U\Semestre 5\POO\Proyecto curso\PYF\obj\Debug\PYF.Formularios.frmInicioSesion.resources
+D:\Proyecto curso\PYF\bin\Debug\PYF.exe.config
+D:\Proyecto curso\PYF\bin\Debug\PYF.exe
+D:\Proyecto curso\PYF\bin\Debug\PYF.pdb
+D:\Proyecto curso\PYF\obj\Debug\PYF.csproj.AssemblyReference.cache
+D:\Proyecto curso\PYF\obj\Debug\PYF.frmInicio.resources
+D:\Proyecto curso\PYF\obj\Debug\PYF.Formularios.frmInicioSesion.resources
+D:\Proyecto curso\PYF\obj\Debug\PYF.Properties.Resources.resources
+D:\Proyecto curso\PYF\obj\Debug\PYF.csproj.GenerateResource.cache
+D:\Proyecto curso\PYF\obj\Debug\PYF.csproj.CoreCompileInputs.cache
+D:\Proyecto curso\PYF\obj\Debug\PYF.exe
+D:\Proyecto curso\PYF\obj\Debug\PYF.pdb
+D:\Proyecto curso\PYF\obj\Debug\PYF.Formularios.frmRegistro.resources
+D:\Proyecto curso\PYF\obj\Debug\PYF.Formularios.frmRecuperacionContrasena.resources
+D:\Proyecto curso\PYF\obj\Debug\PYF.Formularios.frmNuevaContrasena.resources
